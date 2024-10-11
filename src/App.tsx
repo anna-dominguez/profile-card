@@ -31,25 +31,25 @@ const App = () => (
 				<div className="flex justify-center gap-4 text-indigo-700">
 					<button
 						type="button"
-						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800"
+						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800 hover:bg-neutral-50 focus:bg-neutral-50"
 					>
 						<Github style="size-5" />
 					</button>
 					<button
 						type="button"
-						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800"
+						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800 hover:bg-neutral-50 focus:bg-neutral-50"
 					>
 						<LinkedIn style="size-5" />
 					</button>
 					<button
 						type="button"
-						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800"
+						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800 hover:bg-neutral-50 focus:bg-neutral-50"
 					>
 						<Instagram style="size-5" />
 					</button>
 					<button
 						type="button"
-						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800"
+						className="p-2 cursor-pointer outline-8 outline-indigo-100 hover:text-indigo-800 hover:bg-neutral-50 focus:bg-neutral-50"
 					>
 						<Twitter style="size-5" />
 					</button>
